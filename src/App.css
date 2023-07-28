@@ -1,0 +1,12 @@
+
+
+
+
+table,tr,td, th{
+  border: 1px solid black;
+  border-collapse: collapseS;
+  padding: 50px;
+}
+td img{
+  width: 100px;
+}
