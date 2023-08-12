@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+
+
+![Screenshot (11)](https://github.com/Madesh01/React-User-Entry-System/assets/137975779/da5cd208-b1d5-4fb1-a272-a84a265ee71d)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
