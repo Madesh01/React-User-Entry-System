@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-![Screenshot (11)](https://github.com/Madesh01/React-User-Entry-System/assets/137975779/da5cd208-b1d5-4fb1-a272-a84a265ee71d)
+![Screenshot (20)](https://github.com/Madesh01/React-User-Entry-System/assets/137975779/0784a8b0-4284-4ed0-ac47-72ac02ff0929)
 
 
 ## Available Scripts
